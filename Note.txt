@@ -1,0 +1,26 @@
+DLC milestone
+
+Processess
+
+
+shift cipher
+
+Binary:
+A-Z (26 - 1) 
+a-z (52 -27)
+0-9 - (53-62)
+. - 63
+! - 64
+.....
+
+Hexa:
+A-Z (1A - 01)
+
+
+1. Shift Cipher
+2. Binary Reverse Decimal Number
+3. Hexadecimal
+4. XOR
+5. XNOR
+6. MD5 any block size
+7. Binary - Binary reverse
